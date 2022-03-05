@@ -1,0 +1,20 @@
+.card-footer{
+    position: relative;
+    padding: 30px;
+
+}
+input{
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+
+}
+img {
+    width: 83%!important;
+    height: 134px;
+    margin: 10px auto 0 auto;
+}
+i ,p, h5{
+    margin-left: 20px;
+}

@@ -1,0 +1,16 @@
+nav{
+    border: 1px solid blue;
+}
+body{
+    background-image: url("5.jpg");
+}
+ 
+.input1{
+    width:400px;
+    display: inline-block;
+}
+.div1{
+    position: absolute;
+    left: 30%;
+    bottom: 35%;
+}
